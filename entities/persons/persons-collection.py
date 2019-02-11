@@ -268,7 +268,7 @@ class Persons_Collection:
 
 
 # *** Just for debug ***
-pc = Persons_Collection()
+# pc = Persons_Collection()
 
 
 # pc.getAllIDs()
