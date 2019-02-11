@@ -1,4 +1,4 @@
-# Resident Evil - Sample Data Analytics
+# Resident Evil (Sample Data Analytics)
 
 ## Screenshots
 
