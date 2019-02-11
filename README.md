@@ -1,5 +1,15 @@
 # Resident Evil - Sample Analytics
 
+## Screenshots
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-analytics/master/imgs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-analytics/master/imgs/screenshot-1.jpg)
+######  Resident Evil (Sample Analytics) - Screenshot #1
+
+***
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-analytics/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-analytics/master/imgs/screenshot-2.jpg)
+######  Resident Evil (Sample Analytics) - Screenshot #2
+
 
 ## Built with
 * [**_Python_**](https://www.python.org/)
