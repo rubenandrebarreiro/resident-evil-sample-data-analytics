@@ -1,41 +1,41 @@
 {
-  "male_person_1": {
+  "male_human_1": {
     "first_name": "John",
     "last_name": "Tevez"
   },
-  "male_person_2": {
+  "male_human_2": {
     "first_name": "Michael",
     "last_name": "Bourdoin"
   },
-  "male_person_3": {
+  "male_human_3": {
     "first_name": "Kevin",
     "last_name": "Low"
   },
-  "male_person_4": {
+  "male_human_4": {
     "first_name": "Joseph",
     "last_name": "Paige"
   },
-  "male_person_5": {
+  "male_human_5": {
     "first_name": "Drake",
     "last_name": "Watson"
   },
-  "male_person_6": {
+  "male_human_6": {
     "first_name": "Richard",
     "last_name": "Moses"
   },
-  "male_person_7": {
+  "male_human_7": {
     "first_name": "Thiago",
     "last_name": "Alcântara"
   },
-  "male_person_8": {
+  "male_human_8": {
     "first_name": "Lee",
     "last_name": "Saint-Preux"
   },
-  "male_person_9": {
+  "male_human_9": {
     "first_name": "Oliver",
     "last_name": "Thompson"
   },
-  "male_person_10": {
+  "male_human_10": {
     "first_name": "Dave",
     "last_name": "Harrold"
   }

@@ -1,41 +1,41 @@
 {
-  "female_person_1": {
+  "female_human_1": {
     "first_name": "Sarah",
     "last_name": "Connor"
   },
-  "female_person_2": {
+  "female_human_2": {
     "first_name": "Danielle",
     "last_name": "Sullivan"
   },
-  "female_person_3": {
+  "female_human_3": {
     "first_name": "Rachel",
     "last_name": "Roberts"
   },
-  "female_person_4": {
+  "female_human_4": {
     "first_name": "Marianna",
     "last_name": "Gomez"
   },
-  "female_person_5": {
+  "female_human_5": {
     "first_name": "Zöe",
     "last_name": "Kavanagh"
   },
-  "female_person_6": {
+  "female_human_6": {
     "first_name": "Judith",
     "last_name": "Blanc"
   },
-  "female_person_7": {
+  "female_human_7": {
     "first_name": "Megan",
     "last_name": "Ferguson"
   },
-  "female_person_8": {
+  "female_human_8": {
     "first_name": "Teresa",
     "last_name": "Osborn"
   },
-  "female_person_9": {
+  "female_human_9": {
     "first_name": "Hannah",
     "last_name": "Gordon"
   },
-  "female_person_10": {
+  "female_human_10": {
     "first_name": "Samantha",
     "last_name": "Peterson"
   }
