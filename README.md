@@ -1,1 +1,1 @@
-# Resident Evil - Sample
+# Resident Evil - Sample Analytics
