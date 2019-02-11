@@ -1,14 +1,14 @@
-# Resident Evil - Sample Analytics
+# Resident Evil - Sample Data Analytics
 
 ## Screenshots
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-analytics/master/imgs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-analytics/master/imgs/screenshot-1.jpg)
-######  Resident Evil (Sample Analytics) - Screenshot #1
+![https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-data-analytics/master/imgs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-data-analytics/master/imgs/screenshot-1.jpg)
+######  Resident Evil (Sample Data Analytics) - Screenshot #1
 
 ***
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-analytics/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-analytics/master/imgs/screenshot-2.jpg)
-######  Resident Evil (Sample Analytics) - Screenshot #2
+![https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-data-analytics/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/resident-evil-sample-data-analytics/master/imgs/screenshot-2.jpg)
+######  Resident Evil (Sample Data Analytics) - Screenshot #2
 
 
 ## Built with
